@@ -4,7 +4,7 @@
 [![Downloads/month](https://img.shields.io/npm/dm/agentic-translate)](https://www.npmjs.com/package/agentic-translate)
 [![MIT license](https://img.shields.io/npm/l/agentic-translate)](https://opensource.org/license/mit)
 
-[Package](https://www.npmjs.com/package/agentic-translate) · [Support](https://github.com/pooriaarab/agentic-translate/issues)
+[Package](https://www.npmjs.com/package/agentic-translate) · [Support](https://github.com/itsryanarmani/agentic-translate/issues)
 
 agentic-translate is an open-source text translation wrapper for DeepL, OpenAI, and Cloudflare Workers AI with a TypeScript API, CLI, and Model Context Protocol (MCP) server.
 
@@ -73,7 +73,7 @@ The Worker source and its tests are disabled; no active Worker endpoint ships.
 ## Status and links
 
 Version 0.1.1 is an early release. APIs can change before 1.0.
-Use [GitHub issues](https://github.com/pooriaarab/agentic-translate/issues) for support.
+Use [GitHub issues](https://github.com/itsryanarmani/agentic-translate/issues) for support.
 No public documentation site is configured. Public case studies are not yet published.
 
 ## License
